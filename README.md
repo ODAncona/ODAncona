@@ -1,4 +1,4 @@
-
+![](./prog.gif)
 
 <h1 align="center">Hi 👋, I'm Olivier D'Ancona</h1>
 <h3 align="center">Passionate Data Scientist from Switzerland</h3>
