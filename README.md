@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ASK-03/ASK-03/blob/main/static/mario.gif)](https://github.com/ASK-03)
+
 
 <h1 align="center">Hi 👋, I'm Olivier D'Ancona</h1>
 <h3 align="center">Passionate Data Scientist from Switzerland</h3>
