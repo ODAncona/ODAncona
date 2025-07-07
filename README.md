@@ -1,7 +1,7 @@
 ![](./prog.gif)
 
 <h1 align="center">Hi 👋, I'm Olivier D'Ancona</h1>
-<h3 align="center">Passionate Data Scientist from Switzerland</h3>
+<h3 align="center">Passionate Machine Learning Engineer from Switzerland</h3>
 
 ![](https://komarev.com/ghpvc/?username=odancona&style=for-the-badge)
 
